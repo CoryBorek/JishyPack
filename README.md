@@ -1,2 +1,13 @@
-# JishyPack
-Jishy's custom resource pack for Minecraft!
+# Jishy Pack
+
+    _    _    ____    _      ___  _
+   / |  / \  / ___\  / \ /|  \  \//
+   | |  | |  |    \  | |_||   \  / 
+/\_| |  | |  \___ |  | | ||   / /  
+\____/  \_/  \____/  \_/ \|  /_/   
+
+=======================================
+
+Currently in Pre-Alpha--
+v112_0.01
+                                   
