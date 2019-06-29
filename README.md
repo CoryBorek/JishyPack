@@ -59,3 +59,5 @@ Phone currently in the pack (more coming in the future)
   - Galaxy S10e
   - Galaxy S1
   - iPhone X
+  
+![phones](/readmeimages/phones.png)
