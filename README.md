@@ -23,6 +23,8 @@ This pack is stull being made. Currently v1.12_0.3
 
 Click the green "Clone or download" button. Unzip the file, and put the folder into your Minecraft resource pack folder.
 
+![CloneOrDownload](/readmeimages/CloneOrDownload.png)
+
 # =======================================
 
 # Stuff in this pack:
