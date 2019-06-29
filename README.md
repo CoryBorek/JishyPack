@@ -27,4 +27,33 @@ Click the green "Clone or download" button. Unzip the file, and put the folder i
 
 # Stuff in this pack:
 
-(this info is coming soon)
+  - Blocks and items from Faithful resource pack
+  - *Smartphones (see below)
+  - Custom Language (doesn't change much, made just for the fun of it)
+  - Transparent items frames when placed
+  
+*If you use Optifine, renaming the compass to the name of any select smartphones will change the texture to that phone. 
+Phone currently in the pack (more coming in the future)
+  - iPhone 6s
+  - iPhone 8 Plus
+  - Asus ROG Phone
+  - Galaxy S8 Plus
+  - Galaxy S10 Plus
+  - Galaxy S10
+  - Galaxy S2
+  - Galaxy S3
+  - Galaxy S4
+  - Galaxy S8
+  - iPhone 8
+  - iPhone XS Max
+  - Galaxy Note 9
+  - OnePlus 7 Pro
+  - Pixel 3a
+  - Pixel 3 XL
+  - Razer Phone 2
+  - Razer Phone 1
+  - Galaxy S6 Edge
+  - Galaxy S7
+  - Galaxy S10e
+  - Galaxy S1
+  - iPhone X
