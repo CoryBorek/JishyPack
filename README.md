@@ -3,7 +3,7 @@ Jishy's somewhat custom resource pack for Minecraft 1.12!
 
 This pack is currently only compatible with the 1.12 version of Minecraft, more versions coming soon!
 
-# =======================================
+## =======================================
 
 # CREDITS:
 THIS PACK IS NOT 100% CUSTOM MADE!!!!
@@ -11,13 +11,13 @@ ALL BLOCKS, AND MOST ITEMS, ARE FROM THE FAITHFUL 32X RESOURCE PACK!!! ALL CREDI
 
 Other than the faithful stuff, this pack is made by Carter and Jishy.
 
-# =======================================
+## =======================================
 
 # Current version of pack:
 
 This pack is stull being made. Currently v1.12_0.3
 
-# =======================================
+## =======================================
 
 # How to install:
 
@@ -25,7 +25,7 @@ Click the green "Clone or download" button. Unzip the file, and put the folder i
 
 ![CloneOrDownload](/readmeimages/CloneOrDownload.png)
 
-# =======================================
+## =======================================
 
 # Stuff in this pack:
 
@@ -62,3 +62,6 @@ Phone currently in the pack (more coming in the future)
   
 ![phones](/readmeimages/phones.png)
 *image does not show ALL of the phones added*
+
+
+_there is currently 1 easter egg hidden inside the pack (requires optifine to see in game)_
