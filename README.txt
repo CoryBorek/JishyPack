@@ -1,5 +1,3 @@
-# Jishy Pack
-
     _    _    ____    _      ___  _
    / |  / \  / ___\  / \ /|  \  \//
    | |  | |  |    \  | |_||   \  / 
@@ -9,5 +7,10 @@
 =======================================
 
 Currently in Pre-Alpha--
-v112_0.01
+v1.12_1
+
+
+
+NOTE: ALL BLOCK TEXTURES AND MOST ITEM TEXTURES ARE FROM THE FAITHFUL RESOURCE PACK!!!
+ALL CREDIT GOES TO THE CREATORS OF THE FAITHFUL RESOURCE PACK!!!!!!!!
                                    

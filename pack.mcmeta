@@ -1,6 +1,13 @@
 {
   "pack": {
     "pack_format": 3,
-    "description": "§9§lJishy§3 pack!§2By: Carter & Jishy. §4v112_0.1"
-  }
+    "description": "§2Faithful Edit §3-- §9V1.12_1 §aBy: Carter & Jishy"
+  },
+   "language": {
+      "en_jishy": {
+         "name": "Bitch Boat Speak",
+         "region": "Bitch Tree Forrest",
+         "bidirectional": false
+      }
+   }
 }
