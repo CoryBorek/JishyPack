@@ -61,3 +61,4 @@ Phone currently in the pack (more coming in the future)
   - iPhone X
   
 ![phones](/readmeimages/phones.png)
+*image does not show ALL of the phones added*
