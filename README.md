@@ -22,3 +22,9 @@ This pack is stull being made. Currently v1.12_0.3
 # How to install:
 
 Click the green "Clone or download" button. Unzip the file, and put the folder into your Minecraft resource pack folder.
+
+# =======================================
+
+# Stuff in this pack:
+
+(this info is coming soon)
