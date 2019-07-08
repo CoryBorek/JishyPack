@@ -33,6 +33,8 @@ Click the green "Clone or download" button. __Unzip the file__, and put the fold
   - *Smartphones (see below)
   - Custom Language (doesn't change much, made just for the fun of it)
   - Transparent items frames when placed
+  - Custom menu textures
+  - Custom creative inventory textures
   
 *If you use Optifine, renaming the compass to the name of any select smartphones will change the texture to that phone. 
 Phone currently in the pack (more coming in the future)
