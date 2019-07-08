@@ -21,7 +21,7 @@ This pack is stull being made. Currently v1.12_0.3
 
 # How to install:
 
-Click the green "Clone or download" button. Unzip the file, and put the folder into your Minecraft resource pack folder.
+Click the green "Clone or download" button. __Unzip the file__, and put the folder into your Minecraft resource pack folder. (It is very important that you remember to unzip the file)
 
 ![CloneOrDownload](/readmeimages/CloneOrDownload.png)
 
