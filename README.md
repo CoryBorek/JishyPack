@@ -63,7 +63,7 @@ Phone currently in the pack (more coming in the future)
   - Galaxy S1
   - iPhone X
   
-*Replaced all the music discs with songs. 2 out of them are not copyrighted and are added as jokes /shrug
+*Replaced all the music discs with songs. 2 of them are not copyrighted and are added as jokes /shrug
   - Ward    -- Sweet Dreams but weeabu
   - 13      -- Ava Max, So Am I
   - Cat     -- Zedd, Beautiful Now
