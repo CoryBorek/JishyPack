@@ -15,7 +15,7 @@ Other than the faithful stuff, this pack is made by Carter and Jishy.
 
 # Current version of pack:
 
-This pack is stull being made. Currently v1.12_0.3
+This pack is stull being made. Currently v1.12_0.9
 
 ## =======================================
 
@@ -35,6 +35,7 @@ Click the green "Clone or download" button. __Unzip the file__, and put the fold
   - Transparent items frames when placed
   - Custom menu textures
   - Custom creative inventory textures
+  - *Copyrighted Songs
   
 *If you use Optifine, renaming the compass to the name of any select smartphones will change the texture to that phone. 
 Phone currently in the pack (more coming in the future)
@@ -61,6 +62,20 @@ Phone currently in the pack (more coming in the future)
   - Galaxy S10e
   - Galaxy S1
   - iPhone X
+  
+*Replaced all the music discs with songs. 2 out of them are not copyrighted and are added as jokes /shrug
+  - Ward    -- Sweet Dreams but weeabu
+  - 13      -- Ava Max, So Am I
+  - Cat     -- Zedd, Beautiful Now
+  - Blocks  -- Marshmello, Happier
+  - Wait    -- TheFatRat, Fly Away
+  - Chirp   -- Billie Eilish, Bad Guy
+  - Far     -- Billie Eilish, Ocean Eyes
+  - Mall    -- Lil Nas X & Billy Ray Cyrus, Old Town Road
+  - Mellohi -- TheFatRat, Oblivion
+  - 11      -- Nightcore, Rockefeller Street
+  - Stal    -- Porter Robinson, Shelter
+  - Strad   -- Porter Robinson, Lionhearted
   
 ![phones](/readmeimages/phones.png)
 *image does not show ALL of the phones added*
