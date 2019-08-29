@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/houstonia"
+      },
+      {
+        "model": "block/houstonia/0"
+      }
+    ]
+  }
+}
