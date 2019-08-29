@@ -68,7 +68,7 @@ Phone currently in the pack (more coming in the future)
   - 13      -- Ava Max, So Am I
   - Cat     -- Zedd, Beautiful Now
   - Blocks  -- Marshmello, Happier
-  - Wait    -- TheFatRat, Fly Away
+  - Wait    -- P!NK, Walk Me Home
   - Chirp   -- Billie Eilish, Bad Guy
   - Far     -- Billie Eilish, Ocean Eyes
   - Mall    -- Lil Nas X & Billy Ray Cyrus, Old Town Road
