@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": "Â§2Faithful Edit Â§3-- Â§9V1.12_0.9 Â§aBy: Carter \u0026 Jishy"
+  },
+  "language": {
+    "en_jishy": {
+      "name": "Bitch Boat Speak",
+      "region": "Bitch Tree Forrest",
+      "bidirectional": false
+    }
+  },
+  "meta": {
+    "game_version": "1.13"
+  }
+}

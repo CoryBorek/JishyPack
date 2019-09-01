@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/orchid"
+      },
+      {
+        "model": "block/orchid/0"
+      },
+      {
+        "model": "block/orchid/1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/daisy"
+      },
+      {
+        "model": "block/daisy/0"
+      },
+      {
+        "model": "block/daisy/1"
+      }
+    ]
+  }
+}
